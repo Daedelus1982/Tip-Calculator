@@ -2,6 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
+    buildFeatures{
+        viewBinding true
+    }
+
     compileSdkVersion hs.android.compileSdkVersion
 
     defaultConfig {

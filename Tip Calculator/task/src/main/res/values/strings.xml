@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Tip calculator</string>
     <string name="insert_bill_value">Insert Bill Value</string>
+    <string name="bill_display">Bill Value: %1s%2s</string>
+    <string name="tip">Tip: %d\%%</string>
+    <string name="tipAmount">Tip Amount: %1s%2s</string>
 </resources>
